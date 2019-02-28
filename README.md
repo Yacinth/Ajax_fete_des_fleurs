@@ -6,7 +6,7 @@
 
 ## Git Clone
 
--   Aquerir le repository en local avec clef SSH
+-   Aquerir la fraicheur du repository en local avec clef freSSH
 
 ```
 $ git@github.com:Yacinth/Ajax_fete_des_fleurs.git
@@ -14,7 +14,7 @@ $ git@github.com:Yacinth/Ajax_fete_des_fleurs.git
 
 ## Le pouvoir d'Ajax
 
-[Pour voir le pouvoir de Ajax, c'est ici](https://www.youtube.com/watch?v=FAlx59H076k)
+[Pour voir le pouvoir d'Ajax, c'est ici](https://www.youtube.com/watch?v=FAlx59H076k)
 
 ### A tout de suite les correcteurs <3
 
