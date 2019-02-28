@@ -1,5 +1,5 @@
 <ul>
-<li> 
+<li id=<%=task.id %>> 
         <%= check_box_tag task.id, task.id , task.status, :class => "task-check",data: {remote: true, url: task_path(task), method: :put } %>
 <%= @task.title %>, 
 to read: <%= task.deadline.strftime('%D') %>
