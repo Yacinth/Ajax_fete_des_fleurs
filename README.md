@@ -16,4 +16,4 @@ $ git@github.com:Yacinth/Ajax_fete_des_fleurs.git
 
 ![](https://img.youtube.com/vi/okxp2E8VWrY/0.jpg)
 
-[pour voir le pouvoir de Ajax, c'est ici] https://www.youtube.com/watch?v=FAlx59H076k
+[pour voir le pouvoir de Ajax, c'est ici](https://www.youtube.com/watch?v=FAlx59H076k)
