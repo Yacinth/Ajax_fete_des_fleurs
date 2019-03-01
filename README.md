@@ -2,7 +2,7 @@
 
 # Ajax fête des fleurs
 
-~~ Cynthia @Yacinth
+~~ Cynthia @Yacinth ~~ William @willyspa
 
 ## Git Clone
 
