@@ -6,5 +6,9 @@
      <div class="container">
      <%= @email.body %>
      </div>
+     <div class="container">
+     <%= link_to email_path(@email), method: :delete, data:{confirm: "Delete this task", remote: true} do %><%= fa_icon "trash" %><% end %>
+     </div>
+
 </div>
 
