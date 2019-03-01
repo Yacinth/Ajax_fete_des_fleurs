@@ -7,18 +7,12 @@
   </div>
   <ul class="list-group list-group-flush">
     <% @emails.each do  |email|%>
-        <li role="button" class="list-group-item btn btn-light"><%= email.object  %></li> 
-            <% end %>
-         </ul>
- 
-    </div>
-
-    <div class="col">
-    <div class="card">
-    <div class="card-header">
-    
+        <%= button_tag "#{email.object}",class:'list-group-item btn btn-light', data: {remote: true,url: edit_email_path(email), method: :get }%>
+    <% end %>
+  </ul>
   </div>
-    </div>
+ 
+   <div class="col">
   </div>
 </div>
 </body>
