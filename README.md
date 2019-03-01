@@ -18,6 +18,6 @@ $ git@github.com:Yacinth/Ajax_fete_des_fleurs.git
 
 ### A tout de suite les correcteurs <3
 
-[hihi, c'est ici](https://ajax-fete-des-fleurs.herokuapp.com/)
+[Lien en prod, c'est ici](https://ajax-fete-des-fleurs.herokuapp.com/)
 
 ![](https://img.youtube.com/vi/okxp2E8VWrY/0.jpg)
